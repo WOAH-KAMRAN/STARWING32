@@ -1,0 +1,5 @@
+set pin_output_0 13
+set pin_output_1 12
+set pin_output_2 14
+set pin_output_3 27
+set pin_input_rx 25
